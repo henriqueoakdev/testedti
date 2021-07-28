@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.exe
+C:\Users\Administrator\source\repos\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.deps.json
+C:\Users\Administrator\source\repos\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.runtimeconfig.json
+C:\Users\Administrator\source\repos\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.dll
+C:\Users\Administrator\source\repos\TesteDTI\TesteDTI\bin\Debug\netcoreapp3.1\TesteDTI.pdb
+C:\Users\Administrator\source\repos\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.dll
+C:\Users\Administrator\source\repos\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.pdb
+C:\Users\Administrator\source\repos\TesteDTI\TesteDTI\obj\Debug\netcoreapp3.1\TesteDTI.genruntimeconfig.cache
